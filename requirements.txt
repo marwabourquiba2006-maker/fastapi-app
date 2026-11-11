@@ -1,5 +1,4 @@
-fastapi
-uvicorn
+﻿fastapi
+uvicorn[standard]
 jinja2
-pydantic
 python-multipart
